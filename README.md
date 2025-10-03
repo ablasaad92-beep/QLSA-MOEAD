@@ -4,7 +4,7 @@ This repository contains the implementation of the QLSA-MOEAD algorithm  On FFT 
 
 ## Dataset
 For demonstration, one representative workflow case is included in the repository.  
-The full dataset used in the experiments can be provided upon request.
+The full dataset for all cases used in the experiments can be provided upon request.
 
 ## Usage
 - Compile the project using NetBeans or any Java IDE.
