@@ -1,4 +1,4 @@
-# QLSA-MOEAD
+# Scheduling Fast Fourier Transform on 8 hetrogenous computing platform using hybrid metaheuristic and learning Algorithms
 
 This repository contains the implementation of the QLSA-MOEAD, GRASP-MOEAD,SA-MOEAD,TS-MOEAD,GSA-MOEAD,GTS-MOEAD and HACG algorithms On FFT  with 8-units and CCR=1 for heterogeneous task scheduling.
 
