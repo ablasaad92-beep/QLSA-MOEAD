@@ -1,6 +1,6 @@
 # QLSA-MOEAD
 
-This repository contains the implementation of the QLSA-MOEAD algorithm  On FFT  with 3-units and CCR=1 for heterogeneous task scheduling.
+This repository contains the implementation of the QLSA-MOEAD, GRASP-MOEAD,SA-MOEAD,TS-MOEAD,GSA-MOEAD,GTS-MOEAD and HACG algorithms On FFT  with 8-units and CCR=1 for heterogeneous task scheduling.
 
 ## Dataset
 For demonstration, one representative workflow case is included in the repository.  
